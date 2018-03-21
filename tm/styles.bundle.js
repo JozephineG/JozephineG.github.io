@@ -3,7 +3,7 @@ webpackJsonp(["styles"],{
 /***/ "./node_modules/raw-loader/index.js!./node_modules/postcss-loader/lib/index.js??embedded!./src/styles.css":
 /***/ (function(module, exports) {
 
-module.exports = "\n@import url(https://maxcdn.bootstrapcdn.com/bootswatch/4.0.0/spacelab/bootstrap.min.css);\n\n.background {\n    position: relative;\n    background: url(\"http://beles.kg/uploads/big/150666107459cdd2d2c77cd0.65122807.jpg\") no-repeat center center;\n    background-size: cover;\n    padding-top: 8rem;\n    padding-bottom: 8rem;\n}\n\n.rcorners1 {\n    border-radius: 100px;   \n}\n\n"
+module.exports = "\n@import url(https://maxcdn.bootstrapcdn.com/bootswatch/4.0.0/spacelab/bootstrap.min.css);\n\n.background {\n    position: relative;\n    background: url(\"https://beles.kg/uploads/big/150666107459cdd2d2c77cd0.65122807.jpg\") no-repeat center center;\n    background-size: cover;\n    padding-top: 8rem;\n    padding-bottom: 8rem;\n}\n\n.rcorners1 {\n    border-radius: 100px;   \n}\n\n"
 
 /***/ }),
 
