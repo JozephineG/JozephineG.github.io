@@ -334,7 +334,7 @@ var FixerService = /** @class */ (function () {
         this.http = http;
     }
     FixerService.prototype.getExchangeRates = function () {
-        return this.http.get("http://data.fixer.io/api/latest?access_key=ecf13c56eba7eaca37bacc90ad006885&symbols=SEK,NOK,AED,USD&format=1");
+        return this.http.get("https://data.fixer.io/api/latest?access_key=ecf13c56eba7eaca37bacc90ad006885&symbols=SEK,NOK,AED,USD&format=1");
     };
     FixerService = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Injectable */])(),
